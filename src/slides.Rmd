@@ -156,9 +156,9 @@ See demo available at https://try.jupyter.org
 
 ## Git \& GitHub
 
-* Git is version control software, inititally developed for version control of the Linux operating system kernel.
+* Git is version control software, initially developed for version control of the Linux operating system kernel.
 * It is now extremely widely used for almost all kinds of software development projects. 
-* Git works on a decentralized system whereby a codebased can be *cloned*, developed independently, and possible remerged. 
+* Git works on a decentralized system whereby a code-base can be *cloned*, developed independently, and possible re-merged. 
 * For collaborating on one project, two developers use a *remote* host, clone it, develop locally, *commit* and then *push* back to and *pull* from the remote host.
 * GitHub is one of the most widely used hosting sites (but there are others, e.g. BitBucket; and running your own git hosting server is simple and inexpensive).
 * Git is designed for source code (i.e. text files) management. Data and other "assets" can be attached to (rather than kept within) the repository using `git fat`, `git annex`, `git lfs`, etc.
@@ -204,5 +204,5 @@ See demo available at https://try.jupyter.org
 ## Conclusions
 
 - For open, transparent, and reproducible analysis, the code, data, and explanatory texts must be remain coupled. 
-- RMarkdown (and knitr) and Jupyter notebooks are two complementary approaches to coupling data, code, and explantory text. 
+- RMarkdown (and knitr) and Jupyter notebooks are two complementary approaches to coupling data, code, and explanatory text. 
 - Git \& GitHub allows us to manage, develop, and share these interdependent files.
